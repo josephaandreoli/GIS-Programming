@@ -9,15 +9,15 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry -for- Biologists
-description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
-feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSdV_polFmoukgjcs1IC0Dd4iO1rdgwFnOds28xC_ma_z4tNIw
+title:            GIS Programming
+description:      'GIS Programming GEO 4938/6938 Spring 2017'
+url:              https://josephaandreoli.github.io/gis-programming/
+baseurl:          /gis-programming
+email:            andreoli5978690@ufl.edu
+feedbackurl:      https://docs.google.com/forms/d/e/1FAIpQLSdL6CeAOUqaJsxu2nOltW-HylvxDE__lDgR5D8D5dTHPD9gCw/viewform
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Joe Andreoli'
+  url:            http://geog.ufl.edu/grad-students/andreoli/
 
 github:
   repo:           https://github.com/datacarpentry/semester-biology
